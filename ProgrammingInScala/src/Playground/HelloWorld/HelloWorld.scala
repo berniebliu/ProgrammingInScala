@@ -1,4 +1,4 @@
-package Playground
+package Playground.HelloWorld
 
 import scala.io.Source
 
